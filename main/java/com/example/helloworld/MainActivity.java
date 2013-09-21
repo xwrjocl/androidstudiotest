@@ -9,7 +9,7 @@ import android.widget.EditText;
 
 
 public class MainActivity extends Activity {
-
+/** test for git */
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
